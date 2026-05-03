@@ -1,0 +1,26 @@
+# Environment files
+backend/.env
+frontend/.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+frontend/.next/
+
+# ML models (large files)
+backend/recommender/models/
+ml/data/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log

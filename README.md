@@ -167,7 +167,7 @@ GET    /recommendations/hybrid                Hybrid recs for user
 
 ## Live Demo
 
-🔗 [[your-deployed-link.vercel.app](#) ← update after deployment](https://recommendation-engine-lyart.vercel.app/)
+🔗 https://recommendation-engine-lyart.vercel.app/
 
 ---
 
